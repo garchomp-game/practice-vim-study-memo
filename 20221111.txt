@@ -54,7 +54,7 @@ vimのコマンドラインモード
 :[range]global/{pattern}/{cmd}:指定した行の内、{pattern}がマッチするすべての行で、Exコマンド{cmd}を実行
 
 exコマンドについて
-:print, pjoin, :delete等の多彩なコマンドがexから引き継がれて今もなお使えるようになっている。
+:print, :join, :delete等の多彩なコマンドがexから引き継がれて今もなお使えるようになっている。
 :printの省略形として、数字の後にpをつけることができる
 
 ex_mode/practical-vim
