@@ -34,7 +34,7 @@ let swapper={"dog":"man", "man":"dog"}
 TIP96: 複数ファイル間で検索と置換を行う
 
 substitution/refactor-project/*
-:cdで移動したああと args **/*.txtでテキスト系を開く。
+:cdで移動したあと args **/*.txtでテキスト系を開く。
 これらのファイルに対して一括で置換する方法は、
 argdo %s//Practical/ge
 でできる。
